@@ -1,0 +1,40 @@
+.img_logo{
+    width: 80px;
+    height: 80px;
+    border-radius: 20px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.navbar-brand{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.search_cep{
+    margin-top: 2rem;
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form-control{
+    width: 400px;
+}
+
+.res_card{
+    margin-top: 3.5rem;
+}
+
+.display_card{
+    display: none;
+}
+
+#close_card{
+    border-bottom: 3px;
+}
